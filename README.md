@@ -8,6 +8,10 @@ A compact STM32F405-based development/test board designed in **KiCad 10**. It br
 **EDA:** KiCad 10.0.5
 
 ---
+<img width="1217" height="837" alt="Screenshot 2026-11-17 203849" src="https://github.com/user-attachments/assets/e083e453-735c-4303-9ea0-ac43e0fb4523" />
+<img width="785" height="743" alt="Screenshot 2026-11-17 203917" src="https://github.com/user-attachments/assets/6a4ba387-8995-46a2-85e8-0b601cdc4199" />
+
+
 
 ## Features
 
@@ -88,17 +92,6 @@ To use the USB DFU bootloader, set SW1 to pull BOOT0 high, reset the board, and 
 - [x] PCB layout
 - [ ] Fabrication
 - [ ] Bring-up and firmware testing
-
-## Screenshots
-
-Add images to `docs/` and reference them here:
-
-```markdown
-![Schematic](docs/schematic.png)<img width="1217" height="837" alt="Screenshot 2026-11-17 203849" src="https://github.com/user-attachments/assets/6bd35043-40f3-4751-a537-6def25fa506d" />
-
-![PCB](docs/pcb.png)<img width="1217" height="837" alt="Screenshot 2026-11-17 203849" src="https://github.com/user-attachments/assets/6e95302a-ea00-4181-ae5e-0bebf2b9f333" />
-
-```
 
 ## License
 
